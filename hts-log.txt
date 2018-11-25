@@ -1,0 +1,63 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 23 Nov 2018 15:19:30 at http://credal.devv.website +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://credal.devv.website -O1 "C:\My Web Sites\Credal" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:19:33	Warning: 	Note: due to credal.devv.website remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+15:23:08	Error: 	"Not Found" (404) at link credal.devv.website/wp-content/themes/credal/assets/images/patterns/overlay1.png (from credal.devv.website/wp-content/themes/credal/assets/css/camera.css?ver=1.3.4)
+15:23:08	Error: 	"Not Found" (404) at link credal.devv.website/wp-content/themes/credal/assets/images/patterns/overlay2.png (from credal.devv.website/wp-content/themes/credal/assets/css/camera.css?ver=1.3.4)
+15:23:08	Error: 	"Not Found" (404) at link credal.devv.website/wp-content/themes/credal/assets/images/patterns/overlay3.png (from credal.devv.website/wp-content/themes/credal/assets/css/camera.css?ver=1.3.4)
+15:23:08	Error: 	"Not Found" (404) at link credal.devv.website/wp-content/themes/credal/assets/images/patterns/overlay4.png (from credal.devv.website/wp-content/themes/credal/assets/css/camera.css?ver=1.3.4)
+15:23:08	Error: 	"Not Found" (404) at link credal.devv.website/wp-content/themes/credal/assets/images/patterns/overlay5.png (from credal.devv.website/wp-content/themes/credal/assets/css/camera.css?ver=1.3.4)
+15:23:08	Error: 	"Not Found" (404) at link credal.devv.website/wp-content/themes/credal/assets/images/patterns/overlay6.png (from credal.devv.website/wp-content/themes/credal/assets/css/camera.css?ver=1.3.4)
+15:23:08	Error: 	"Not Found" (404) at link credal.devv.website/wp-content/themes/credal/assets/images/patterns/overlay7.png (from credal.devv.website/wp-content/themes/credal/assets/css/camera.css?ver=1.3.4)
+15:23:08	Error: 	"Not Found" (404) at link credal.devv.website/wp-content/themes/credal/assets/images/patterns/overlay8.png (from credal.devv.website/wp-content/themes/credal/assets/css/camera.css?ver=1.3.4)
+15:23:08	Error: 	"Not Found" (404) at link credal.devv.website/wp-content/themes/credal/assets/images/patterns/overlay9.png (from credal.devv.website/wp-content/themes/credal/assets/css/camera.css?ver=1.3.4)
+15:23:08	Error: 	"Not Found" (404) at link credal.devv.website/wp-content/themes/credal/assets/images/patterns/overlay10.png (from credal.devv.website/wp-content/themes/credal/assets/css/camera.css?ver=1.3.4)
+15:23:08	Warning: 	Moved Permanently for credal.devv.website/?p=15
+15:23:08	Warning: 	File has moved from credal.devv.website/?p=15 to http://credal.devv.website/what-we-do/
+15:23:08	Warning: 	Moved Permanently for credal.devv.website/?p=284
+15:23:08	Warning: 	File has moved from credal.devv.website/?p=284 to http://credal.devv.website/our-people/
+15:23:18	Warning: 	Moved Permanently for credal.devv.website/?p=23
+15:23:18	Warning: 	File has moved from credal.devv.website/?p=23 to http://credal.devv.website/news-events/
+15:23:18	Warning: 	Moved Permanently for credal.devv.website/?p=20
+15:23:18	Warning: 	File has moved from credal.devv.website/?p=20 to http://credal.devv.website/contact/
+15:24:24	Warning: 	Moved Permanently for credal.devv.website/?p=124
+15:24:24	Warning: 	File has moved from credal.devv.website/?p=124 to http://credal.devv.website/terms-of-use/
+15:24:24	Warning: 	Moved Permanently for credal.devv.website/?p=123
+15:24:24	Warning: 	File has moved from credal.devv.website/?p=123 to http://credal.devv.website/privacy/
+15:24:24	Warning: 	Moved Permanently for credal.devv.website/?p=122
+15:24:24	Warning: 	File has moved from credal.devv.website/?p=122 to http://credal.devv.website/cookie-policy/
+15:24:24	Warning: 	Moved Permanently for credal.devv.website/?p=121
+15:24:24	Warning: 	File has moved from credal.devv.website/?p=121 to http://credal.devv.website/our-statement/
+15:24:24	Warning: 	Moved Permanently for credal.devv.website/?p=120
+15:24:24	Warning: 	File has moved from credal.devv.website/?p=120 to http://credal.devv.website/company-info/
+15:24:24	Warning: 	Moved Permanently for credal.devv.website/?p=119
+15:24:24	Warning: 	File has moved from credal.devv.website/?p=119 to http://credal.devv.website/accessibility/
+15:24:24	Warning: 	Moved Permanently for credal.devv.website/?p=427
+15:24:24	Warning: 	File has moved from credal.devv.website/?p=427 to http://credal.devv.website/credal-team/theo-musallam/
+15:24:24	Warning: 	Moved Permanently for credal.devv.website/?p=426
+15:24:24	Warning: 	File has moved from credal.devv.website/?p=426 to http://credal.devv.website/credal-team/muayad-s-dawood/
+15:24:24	Warning: 	Moved Permanently for credal.devv.website/?p=425
+15:24:24	Warning: 	File has moved from credal.devv.website/?p=425 to http://credal.devv.website/credal-team/siddartha-muthirevula/
+15:24:24	Warning: 	Moved Permanently for credal.devv.website/?p=424
+15:24:24	Warning: 	File has moved from credal.devv.website/?p=424 to http://credal.devv.website/credal-team/abdulla-al-mansoori/
+15:24:24	Warning: 	Moved Permanently for credal.devv.website/?p=428
+15:24:24	Warning: 	File has moved from credal.devv.website/?p=428 to http://credal.devv.website/credal-team/alessandro-gadotti/
+15:24:24	Warning: 	Moved Permanently for credal.devv.website/?p=422
+15:24:24	Warning: 	File has moved from credal.devv.website/?p=422 to http://credal.devv.website/credal-team/jorge-sebastiao/
+15:24:24	Warning: 	Moved Permanently for credal.devv.website/?p=357
+15:24:24	Warning: 	File has moved from credal.devv.website/?p=357 to http://credal.devv.website/agreement-signed-with-distributors-for-the-kingdom-of-saudi-arabia/
+15:24:24	Error: 	"Method Not Allowed" (405) at link credal.devv.website/xmlrpc.php (from credal.devv.website/agreement-signed-with-distributors-for-the-kingdom-of-saudi-arabia/)
+15:24:24	Warning: 	Moved Permanently for credal.devv.website/?p=116
+15:24:24	Warning: 	File has moved from credal.devv.website/?p=116 to http://credal.devv.website/gitex-technology-week-swiss-pavilion/
+15:24:28	Warning: 	Moved Permanently for credal.devv.website/?p=1
+15:24:28	Warning: 	File has moved from credal.devv.website/?p=1 to http://credal.devv.website/fainder-is-proud-to-announce-a-partnership-with-minesweepers-org/
+15:24:28	Warning: 	Moved Permanently for credal.devv.website/?p=115
+15:24:28	Warning: 	File has moved from credal.devv.website/?p=115 to http://credal.devv.website/aipod-presented-at-ingram-micro-at-gitex/
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 58 seconds : 281 links scanned, 249 files written (6513388 bytes overall) [6369368 bytes received at 21373 bytes/sec], 589618 bytes transferred using HTTP compression in 23 files, ratio 23%
+(11 errors, 41 warnings, 0 messages)
